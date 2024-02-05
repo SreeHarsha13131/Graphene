@@ -1,0 +1,20 @@
+Question Buckets : 
+General feelings and opinions about using the website
+Usage patterns of the website
+Value and benefits provided by the website
+Impact on the module and work
+Usefulness and effect of specific website features
+Comparison of the website with other platforms
+Recommendations for how website can be improved
+
+Products mentioned: 
+Bootstrap
+ClickUP
+Design site
+HTML 
+CSS
+WhatsApp
+
+Themes:
+Website Usage
+Opinions/Recommendations
