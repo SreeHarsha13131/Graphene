@@ -13,7 +13,7 @@ ClickUP
 Design site
 HTML 
 CSS
-WhatsApp
+
 
 Themes:
 Website Usage
